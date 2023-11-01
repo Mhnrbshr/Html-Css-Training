@@ -1,0 +1,32 @@
+h1{
+    color: white;
+}
+body{
+    background-color: aquamarine;
+}
+h2{
+    color: red;
+}
+.head1{
+    text-align: center;
+}
+.pred{
+    color: red;
+}
+.div1{
+    background-color: orangered;
+    padding: 5px;
+}
+.div2{
+    background-color: blue;
+    padding: 5px;
+    margin-top: 10px;
+}
+.ul{
+    background-color: blueviolet;
+}
+.ol{
+    background-color: aqua;
+    margin-top: 10px;
+}
+

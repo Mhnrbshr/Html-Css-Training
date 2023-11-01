@@ -1,0 +1,152 @@
+.imgclass{
+    width: 91%;
+    margin-left: 40px;
+}
+#imid{
+    width: 100%;
+    position: relative;
+}
+.form{
+    border-color: gray;
+    position: absolute;
+    top: 550px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 140px;
+    margin-top: 2px;
+    width: 1000px;
+    padding: 20px;
+    padding-top: 10px;
+    box-shadow: lightgrey;
+}
+#idname, #idph, #iddate{
+    padding: 20px;
+    width: 250px;
+    border-radius: 10px;
+    border-color: lightgray;
+}
+#iddep {
+    padding: 20px;
+    width: 294px;
+    border-radius: 10px;
+    border-color: lightgray;
+}
+#iddoc{
+    margin-left: 30px;
+    padding: 20px;
+    width: 294px;
+    border-radius: 10px;
+    border-color: lightgray;
+}
+.textimg{
+    position: absolute;
+}
+.imgclass{
+    z-index: 2;
+}
+.textimg{
+    left: 90px;
+    top: 100px;
+    z-index: 1;
+}
+.buttnclass{
+    position: absolute;
+    left: 100px;
+    top: 400px;
+    display: flex;
+}
+.btn1{
+    background: #17C1A3;
+    height: 60px;
+    border: none;
+    flex: 1; 
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    margin-right: 20px;
+    margin-left: 50px;
+}
+.btn2{
+    z-index: 1;
+    text-decoration: underline;
+    border: none;
+    background:transparent;
+    flex: 1;
+    font-size: 18px;
+    cursor: pointer;
+    
+}
+.picmaindiv{
+    display: flex;
+}
+.picmaindiv a{
+    margin-top: 2px;
+    margin-left: 3px;
+    text-decoration: underline;
+    color: #17C1A3;
+}
+.pic1{
+    flex: 1;
+}
+.pic2{
+    flex: 1;
+}
+.pic3{
+    flex: 1;
+}
+
+.div1{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.namediv{
+    flex: 1;
+}
+.phdiv{
+    flex: 1;
+}
+.datediv{
+    flex: 1;
+}
+.div2{
+    display: flex;
+}
+.dep{
+    flex: 1;
+}
+.doc{
+    flex: 1;
+}
+.ourdepartments{
+    margin-left: 45px;
+}
+
+input, select{
+    margin-left: 10px;
+}
+.labpic{
+    margin-top: 150px;
+    width: 95%;
+    margin-right: 60px;
+}
+.meetour h3{
+    margin-top: 90px;
+ text-align: center;
+ margin-bottom: 0px;
+}
+.meetour p{
+    text-align: center;
+    color: gray;
+    font-size: 9px;
+}
+.pic4{
+    display: flex;
+}
+.a, .b, .c , .d{
+    flex: 1;
+}
+.a img,.b img, .c img,.d img{
+    width: 80%;
+}
