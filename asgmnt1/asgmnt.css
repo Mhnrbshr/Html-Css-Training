@@ -5,6 +5,8 @@ h1{
 
     padding: 250px;
     background-color: rgb(184, 220, 221);
+    background: url(imgggg.png);
+    background-size: cover;
 }
 body{
     font-size: larger;
@@ -99,7 +101,8 @@ body{
 }
 
 #foot{
-    background-color: white;
+    background-color: black;
+    color: white;
     text-align: right;
 }
 
